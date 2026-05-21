@@ -26,6 +26,6 @@ The dashboards folder is for the Tableau workbook. The data folder is for datase
 
 The project output is a Tableau dashboard that helps review bike sales performance and communicate findings visually.
 
-## How Recruiters Should Review This
+## Project Walkthrough
 
-Open this README first, then review the Tableau workbook or screenshots. This project shows dashboard design, data visualisation, and business communication skills.
+A good way to explore this project is to start with the README, then review the Tableau workbook or screenshots as they are added. The project highlights dashboard design, data visualisation, and business communication skills.
