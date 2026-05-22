@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img">
+<rect width="900" height="520" fill="#ffffff"/>
+<text x="50" y="55" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#111827">Bike Sales By State</text>
+<text x="50" y="85" font-family="Arial, sans-serif" font-size="15" fill="#4b5563">Top states by record count in the public analysis dataset</text>
+<text x="50" y="141" font-family="Arial, sans-serif" font-size="14" fill="#334155">Punjab</text><rect x="260" y="125" width="500" height="22" rx="3" fill="#0f766e"/><text x="770" y="141" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1,051</text>
+<text x="50" y="183" font-family="Arial, sans-serif" font-size="14" fill="#334155">Maharashtra</text><rect x="260" y="167" width="490" height="22" rx="3" fill="#0f766e"/><text x="760" y="183" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1,030</text>
+<text x="50" y="225" font-family="Arial, sans-serif" font-size="14" fill="#334155">Rajasthan</text><rect x="260" y="209" width="484" height="22" rx="3" fill="#0f766e"/><text x="754" y="225" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1,017</text>
+<text x="50" y="267" font-family="Arial, sans-serif" font-size="14" fill="#334155">Uttar Pradesh</text><rect x="260" y="251" width="477" height="22" rx="3" fill="#0f766e"/><text x="747" y="267" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1,003</text>
+<text x="50" y="309" font-family="Arial, sans-serif" font-size="14" fill="#334155">Gujarat</text><rect x="260" y="293" width="476" height="22" rx="3" fill="#0f766e"/><text x="746" y="309" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1,002</text>
+<text x="50" y="351" font-family="Arial, sans-serif" font-size="14" fill="#334155">Tamil Nadu</text><rect x="260" y="335" width="472" height="22" rx="3" fill="#0f766e"/><text x="742" y="351" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">994</text>
+<text x="50" y="393" font-family="Arial, sans-serif" font-size="14" fill="#334155">Karnataka</text><rect x="260" y="377" width="467" height="22" rx="3" fill="#0f766e"/><text x="737" y="393" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">982</text>
+<text x="50" y="435" font-family="Arial, sans-serif" font-size="14" fill="#334155">Delhi</text><rect x="260" y="419" width="465" height="22" rx="3" fill="#0f766e"/><text x="735" y="435" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">977</text>
+<text x="50" y="475" font-family="Arial, sans-serif" font-size="13" fill="#64748b">Public-safe visual summary generated from aggregate dashboard outputs.</text>
+</svg>
