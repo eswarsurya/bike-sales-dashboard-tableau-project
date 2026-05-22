@@ -1,19 +1,19 @@
 # Dashboard Output Summary
 
-This file summarises the public facing output for the bike sales Tableau dashboard project.
+The Tableau dashboard was built to help review Indian bike sales data across product, location, ownership, and resale dimensions.
 
-## Project Output
+## Main Review Areas
 
-The project output is a Tableau dashboard designed to communicate bike sales performance and patterns clearly.
+- Brand and model-level sales patterns.
+- Price and resale price comparison.
+- Mileage and engine capacity context.
+- Owner type and seller type comparison.
+- State and city tier distribution.
 
-## Dashboard Focus
+## Public Evidence
 
-The dashboard is intended to show sales performance, category or product comparisons, customer or regional patterns, and visual summaries that support business review.
+The repository includes public-safe CSV outputs and visual summaries so the dashboard logic can be reviewed even without opening the Tableau workbook.
 
 ## Business Value
 
-The project demonstrates dashboard layout, visual storytelling, and the ability to make sales data easier to understand.
-
-## Public Sharing Note
-
-Dashboard source data should be checked for privacy and file size before upload.
+The project shows how a raw sales table can be converted into stakeholder-friendly views for quick comparison, filtering, and sales performance review.
