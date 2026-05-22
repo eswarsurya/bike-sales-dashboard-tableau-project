@@ -1,0 +1,11 @@
+State,Avg Daily Distance (km),Brand,Model,Price (INR),Year of Manufacture,Engine Capacity (cc),Fuel Type,Mileage (km/l),Owner Type,Registration Year,Insurance Status,Seller Type,Resale Price (INR),City Tier
+Karnataka,68.84,Royal Enfield,Hunter 350,252816,2021,672,Electric,78.41,Second,2024,Active,Individual,149934.18,Tier 3
+Rajasthan,23.8,Bajaj,Dominar 400,131100,2020,769,Hybrid,89.98,Third,2023,Active,Individual,66960.3,Tier 3
+Madhya Pradesh,27.67,KTM,125 Duke,201016,2020,216,Hybrid,71.46,Second,2023,Active,Dealer,141522.64,Tier 3
+Karnataka,62.85,Kawasaki,Ninja 300,132482,2021,556,Petrol,51.73,Third,2021,Active,Dealer,56057.22,Tier 1
+Madhya Pradesh,10.62,Yamaha,FZ V3,231796,2019,298,Petrol,54.72,Third,2019,Not Available,Individual,132538.36,Tier 3
+Maharashtra,47.71,Hero,Splendor Plus,60839,2019,386,Electric,92.08,First,2019,Not Available,Dealer,47466.45,Tier 3
+Maharashtra,77.95,Royal Enfield,Meteor 350,349740,2022,970,Petrol,58.28,First,2022,Expired,Individual,175038.79,Metro
+Tamil Nadu,11.57,Kawasaki,Vulcan S,193781,2019,375,Electric,61.48,Second,2022,Expired,Dealer,96676.39,Tier 3
+Punjab,78.63,KTM,390 Adventure,145538,2022,330,Electric,89.76,Second,2023,Active,Dealer,103908.96,Tier 2
+Rajasthan,22.94,Hero,HF Deluxe,227055,2024,626,Hybrid,68.13,Third,2024,Active,Individual,146320.5,Tier 3
