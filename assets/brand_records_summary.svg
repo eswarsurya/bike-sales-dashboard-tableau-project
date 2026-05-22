@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img">
+<rect width="900" height="520" fill="#ffffff"/>
+<text x="50" y="55" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#111827">Bike Sales By Brand</text>
+<text x="50" y="85" font-family="Arial, sans-serif" font-size="15" fill="#4b5563">Top brands by record count in the public analysis dataset</text>
+<text x="50" y="141" font-family="Arial, sans-serif" font-size="14" fill="#334155">Kawasaki</text><rect x="260" y="125" width="500" height="22" rx="3" fill="#2563eb"/><text x="770" y="141" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1,291</text>
+<text x="50" y="183" font-family="Arial, sans-serif" font-size="14" fill="#334155">Yamaha</text><rect x="260" y="167" width="497" height="22" rx="3" fill="#2563eb"/><text x="767" y="183" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1,283</text>
+<text x="50" y="225" font-family="Arial, sans-serif" font-size="14" fill="#334155">KTM</text><rect x="260" y="209" width="492" height="22" rx="3" fill="#2563eb"/><text x="762" y="225" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1,272</text>
+<text x="50" y="267" font-family="Arial, sans-serif" font-size="14" fill="#334155">Royal Enfield</text><rect x="260" y="251" width="485" height="22" rx="3" fill="#2563eb"/><text x="755" y="267" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1,253</text>
+<text x="50" y="309" font-family="Arial, sans-serif" font-size="14" fill="#334155">Hero</text><rect x="260" y="293" width="480" height="22" rx="3" fill="#2563eb"/><text x="750" y="309" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1,239</text>
+<text x="50" y="351" font-family="Arial, sans-serif" font-size="14" fill="#334155">TVS</text><rect x="260" y="335" width="477" height="22" rx="3" fill="#2563eb"/><text x="747" y="351" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1,234</text>
+<text x="50" y="393" font-family="Arial, sans-serif" font-size="14" fill="#334155">Honda</text><rect x="260" y="377" width="472" height="22" rx="3" fill="#2563eb"/><text x="742" y="393" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1,221</text>
+<text x="50" y="435" font-family="Arial, sans-serif" font-size="14" fill="#334155">Bajaj</text><rect x="260" y="419" width="467" height="22" rx="3" fill="#2563eb"/><text x="737" y="435" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1,207</text>
+<text x="50" y="475" font-family="Arial, sans-serif" font-size="13" fill="#64748b">Public-safe visual summary generated from aggregate dashboard outputs.</text>
+</svg>
