@@ -1,0 +1,10 @@
+metric,value
+records,10000.0
+columns,15.0
+states,10.0
+brands,8.0
+models,40.0
+minimum_price_inr,50031.0
+maximum_price_inr,399981.0
+average_price_inr,224328.72
+average_resale_price_inr,133828.97
